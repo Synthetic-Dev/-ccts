@@ -1,0 +1,31 @@
+{
+  "name": "@ccts/cc-types",
+  "version": "1.0.0",
+  "description": "JackMacWindows's CC types",
+  "types": "index.d.ts",
+  "files": [
+    "./*.d.ts",
+    "./audio",
+    "./image",
+    "./shell"
+  ],
+  "keywords": [
+    "cc",
+    "cc-types",
+    "types",
+    "computer",
+    "craft",
+    "computercraft",
+    "cc",
+    "tweaked"
+  ],
+  "contributors": [
+    "JackMacWindows"
+  ],
+  "author": "SyntheticDev",
+  "license": "MIT",
+  "devDependencies": {
+    "@jackmacwindows/lua-types": "^2.13.1",
+    "@jackmacwindows/typescript-to-lua": "^1.10.1"
+  }
+}

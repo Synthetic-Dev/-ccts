@@ -1,0 +1,28 @@
+{
+  "name": "@ccts/craftos-types",
+  "version": "1.1.1",
+  "description": "JackMacWindows's CraftOS types",
+  "types": "craftos.d.ts",
+  "files": [
+    "./craftos.d.ts"
+  ],
+  "keywords": [
+    "craftos",
+    "craftos-types",
+    "types",
+    "computer",
+    "craft",
+    "computercraft",
+    "cc",
+    "tweaked"
+  ],
+  "contributors": [
+    "JackMacWindows"
+  ],
+  "author": "SyntheticDev",
+  "license": "MIT",
+  "devDependencies": {
+    "@jackmacwindows/lua-types": "^2.13.1",
+    "@jackmacwindows/typescript-to-lua": "^1.10.1"
+  }
+}

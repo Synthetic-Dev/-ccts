@@ -1,0 +1,23 @@
+{
+  "name": "@ccts/events",
+  "version": "1.0.2",
+  "description": "JackMacWindows's event wrapper: A wrapper to make working with events easier!",
+  "main": "./index",
+  "types": "./index",
+  "files": [
+    "./index.ts",
+    "./index.lua",
+    "./index.d.ts"
+  ],
+  "scripts": {
+    "build": "tstl"
+  },
+  "author": "JackMacWindows",
+  "license": "MIT",
+  "devDependencies": {
+    "@ccts/cc-types": "^1.0.0",
+    "@ccts/craftos-types": "^1.1.1",
+    "@jackmacwindows/lua-types": "^2.13.1",
+    "@jackmacwindows/typescript-to-lua": "^1.10.1"
+  }
+}
