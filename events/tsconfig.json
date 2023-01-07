@@ -11,7 +11,7 @@
 	"tstl": {
 		"buildMode": "library",
 		"luaTarget": "CC",
-		"luaLibImport": "require"
+		"luaLibImport": "inline"
 	},
 	"include": ["index.ts"]
 }

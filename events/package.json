@@ -1,6 +1,6 @@
 {
   "name": "@ccts/events",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JackMacWindows's event wrapper: A wrapper to make working with events easier!",
   "main": "./index",
   "types": "./index",
