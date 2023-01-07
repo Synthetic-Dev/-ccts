@@ -14,7 +14,7 @@
 	},
 	"tstl": {
 		"buildMode": "library",
-		"luaTarget": "5.2",
+		"luaTarget": "CC",
 		"luaLibImport": "require"
 	},
 	"include": ["index.ts"]

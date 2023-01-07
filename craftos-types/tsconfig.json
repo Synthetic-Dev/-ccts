@@ -9,6 +9,6 @@
 		"types": ["@jackmacwindows/lua-types/cc"]
 	},
 	"tstl": {
-		"luaTarget": "5.2"
+		"luaTarget": "CC"
 	}
 }
